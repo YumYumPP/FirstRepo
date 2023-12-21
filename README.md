@@ -2,7 +2,7 @@
 I don't know how to create project in university now 
 
 ## YumYum 
-$ x*2 + a*x + c $
+$x*2 + a*x + c$
 
 ## PP
 
